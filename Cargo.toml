@@ -3,5 +3,11 @@ name = "plotters-layout"
 version = "0.1.0"
 edition = "2021"
 
+description = "Layout utility for plotters crate"
+categories = ["visualization"]
+repository = "https://github.com/tdhjm/plotters-layout"
+license = "MIT"
+readme = "README.md"
+
 [dependencies]
 plotters = "0.3"
